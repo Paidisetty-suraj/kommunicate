@@ -1,0 +1,8 @@
+The project i worked on is house rental managment system
+the project consists of several modules it provides an interface for owner and tenats to provide interface to give rent their houses aswellas get a house
+it contains a module for tenants and a module for owner and a payment interface 
+this is a group project , and this project made me learn teamsprit 
+we have worked for about 3 months to build this project
+i have worked on ui/ux design  
+the major problems that i have faced is alligning the tags and buttons and make a well designed website.
+
